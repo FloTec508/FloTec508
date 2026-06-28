@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @FloTec508
-- 👀 I’m interested in Electronics, programming, Metal- and Woodworking
-- 🌱 I’m currently learning PCB design, SMD Soldering, javaScript and other programming languages
-- 📫 How to reach me: Email: flowink09@tutamail.com
-- 😄 Pronouns: He/Him
-- ⚡ "Fun" fact: I am 14 years old🙃
+Hi!🖐️  I am Florian, 16 years old and student in Austria. I am passionate about electronic engineering, programming, metal- and woodworking. 
+I like experimenting with stuff. Here you will find (most) of my (random) projects.
 
 <!---
 FloTec508/FloTec508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
